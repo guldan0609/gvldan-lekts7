@@ -42,6 +42,7 @@ Remote repository – интернет дээр (GitHub) байрлана.
 git clone – GitHub дээрх repository-г локаль компьютерт татах
 
 git add – өөрчлөгдсөн файлуудыг staging area-д нэмэх
+Хамгийн сүүлд нэмлээ.
 
 git commit – өөрчлөлтийг version history-д хадгалах
 
