@@ -48,3 +48,4 @@ git commit – өөрчлөлтийг version history-д хадгалах
 
 git push – локаль commit-уудыг GitHub руу илгээх
 ---
+## Branch дээр хийсэн өөрчлөлт
